@@ -60,7 +60,7 @@ Efektywność segmentów: Mimo mniejszej liczby transakcji, segment Premium (w t
 ## Wizualizacja w Power BI
 Stworzyłam interaktywny dashboard, który łączy się z bazą SQL i pozwala na bieżąco monitorować kondycję biznesu.
 
-![Dashboard Sprzedaży](dashboard.png)
+![Dashboard Sprzedaży](dashboard.png )
 
 ### Kluczowe funkcjonalności raportu:
 * **Analiza czasowa:** Wykres liniowy pozwolił zidentyfikować "godziny szczytu" (8:00–10:00), co ułatwia planowanie obsady personelu.
