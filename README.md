@@ -3,7 +3,7 @@
 Głównym celem było przeanalizowanie danych sprzedaży sieci kawiarni. Miałam do dyspozycji ponad 149 000 rekordów. Chciałam przygotować te dane do analizy i wyciągnąć wnioski na temat rentowności produktów i zachowań klientów.
 ## Narzędzia i Dane
 * **Źródło danych:** [Coffee Shop Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/coffee-shop-sales-dataset?resource=download)
-* **Technologia:** Microsoft SQL Server (T-SQL)
+* **Technologie:** Microsoft SQL Server (T-SQL), Power BI
 
 ---
 ## Proces Czyszczenia Danych
