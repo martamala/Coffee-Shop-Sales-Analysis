@@ -50,9 +50,20 @@ GROUP BY product_type
 ORDER BY Zysk_Premium DESC;
 ```
 
-Główne Wnioski
+## Główne Wnioski
 Liderzy Sprzedaży: Największy ruch i utarg generowany jest w poniedziałki i środy.
 
 Efektywność segmentów: Mimo mniejszej liczby transakcji, segment Premium (w tym Herbal Tea) wykazuje najwyższą marżę.
 
 Średni koszyk: Wynosi ok. 4,68, co stanowi bazę do planowania przyszłych kampanii typu up-selling.
+
+## Wizualizacja w Power BI
+Stworzyłam interaktywny dashboard, który łączy się z bazą SQL i pozwala na bieżąco monitorować kondycję biznesu.
+
+![Dashboard Sprzedaży](dashboard.png)
+
+### Kluczowe funkcjonalności raportu:
+* **Analiza czasowa:** Wykres liniowy pozwolił zidentyfikować "godziny szczytu" (8:00–10:00), co ułatwia planowanie obsady personelu.
+* **Struktura asortymentu:** Wykres pierścieniowy pokazuje udział poszczególnych kategorii – kawa stanowi główny filar przychodów (ok. 39%).
+* **Monitorowanie KPI:** Dzięki kartom wyników na bieżąco widzimy całkowity utarg oraz średnią wartość zamówienia (4.69).
+* **Interaktywność:** Dodanie filtrów lokalizacji pozwala na błyskawiczne porównanie wyników między różnymi punktami sprzedaży.
